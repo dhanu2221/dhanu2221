@@ -3,7 +3,7 @@
 🤖 LLMs • RAG • Agentic AI • MLOps
 ☁️ AWS • GCP Vertex AI • Azure ML
 🏦 Banking | 🏥 Healthcare | 🔐 Enterprise AI
-<p align="center"> <a href="https://www.linkedin.com/in/prakash-p-69096b192"> <img src="https://img.shields.io/badge/LinkedIn-Prakash%20P-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:dhanuprakash111@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"> </a> </p> </div>
+<p align="center"> <a href="https://www.linkedin.com/in/prakash-p-69096b192/"> <img src="https://img.shields.io/badge/LinkedIn-Prakash%20P-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:dhanuprakash111@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"> </a> </p> </div>
 👋 Who Am I?
 
 I’m a Generative AI Engineer with 5+ years of experience building enterprise-grade AI systems for highly regulated industries like Banking and Healthcare.
@@ -159,7 +159,7 @@ Cloud migration & MLOps pipelines
 
 📧 Email: dhanuprakash111@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/prakash-p-69096b192
+💼 LinkedIn: https://www.linkedin.com/in/prakash-p-69096b192/
 
 <div align="center">
 ⭐ I build AI systems companies trust — not demos.

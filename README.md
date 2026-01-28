@@ -1,218 +1,166 @@
-👋 Hi, I’m Prakash
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Prakash%20P&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 🚀 Generative AI Engineer | AI/ML Engineer | Data Scientist
 🤖 LLMs • RAG • Agentic AI • MLOps
 ☁️ AWS • GCP Vertex AI • Azure ML
-🏦 Banking | 🏥 Healthcare | 🔐 Enterprise AI Systems
+🏦 Banking | 🏥 Healthcare | 🔐 Enterprise AI
+<p align="center"> <a href="https://www.linkedin.com/in/prakash-p-69096b192"> <img src="https://img.shields.io/badge/LinkedIn-Prakash%20P-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:dhanuprakash111@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"> </a> </p> </div>
+👋 Who Am I?
 
-I’m a Generative AI Engineer with 5+ years of experience building and deploying enterprise-grade AI solutions for highly regulated industries like Banking and Healthcare.
-I specialize in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI workflows, and MLOps, with a strong focus on security, scalability, and compliance.
+I’m a Generative AI Engineer with 5+ years of experience building enterprise-grade AI systems for highly regulated industries like Banking and Healthcare.
 
-Currently, I work as a Generative AI Engineer at PNC, designing AI systems that power decision automation, knowledge retrieval, risk analysis, and conversational AI across enterprise platforms.
+I specialize in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI workflows, and MLOps, with a strong focus on:
 
-🔍 What I Do
+✅ Security
+✅ Compliance
+✅ Scalability
+✅ Production-readiness
 
-🧠 Design & deploy LLM-based systems for real-world enterprise use cases
+Currently, I work at PNC Bank, designing and deploying AI solutions that power decision automation, knowledge retrieval, risk analysis, and conversational AI across enterprise platforms.
 
-📚 Build RAG pipelines for policy, regulatory, and knowledge-base search
+🧠 What I Build (At Scale)
+<p align="center"> <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/> <img src="https://img.icons8.com/color/96/cloud.png"/> <img src="https://img.icons8.com/color/96/flow-chart.png"/> <img src="https://img.icons8.com/color/96/database.png"/> </p>
 
-🤖 Engineer multi-agent AI workflows using LangGraph & AutoGen
+🧠 LLM-powered enterprise systems
 
-⚙️ Implement MLOps pipelines for training, deployment, and monitoring
+📚 RAG pipelines for policies, regulations & knowledge bases
 
-☁️ Deploy AI workloads across AWS, GCP Vertex AI, and Azure ML
+🤖 Multi-agent AI workflows (LangGraph, AutoGen)
 
-🔐 Ensure AI governance, data privacy, and compliance in production systems
+⚙️ End-to-end MLOps pipelines
 
-🧠 Core Expertise
-Generative AI & LLMs
+☁️ Cloud-native AI deployments
 
-Large Language Models (LLMs)
+🔐 AI governance & compliance frameworks
 
-Prompt Engineering & Prompt Tuning
+🏗️ Enterprise AI Architecture (What Recruiters Care About)
+┌───────────────┐
+│  Enterprise   │
+│  Documents    │
+└──────┬────────┘
+       ↓
+┌────────────────────┐
+│ Ingestion & Chunking│
+└──────┬─────────────┘
+       ↓
+┌────────────────────┐
+│ Embeddings + Vector │
+│ Databases           │
+└──────┬─────────────┘
+       ↓
+┌────────────────────┐
+│ RAG / Agentic AI    │
+│ (LangChain/Graph)   │
+└──────┬─────────────┘
+       ↓
+┌────────────────────┐
+│ FastAPI Services    │
+│ Secure Inference    │
+└────────────────────┘
 
-Domain Adaptation & Fine-Tuning
+🛠️ Tech Stack (Real, Production-Used)
+💻 Languages
 
-Custom GPTs & Tool-Calling
 
-Retrieval-Augmented Generation (RAG)
 
-Document ingestion & preprocessing
 
-Chunking strategies & embeddings
+🤖 Generative AI
 
-Vector databases & semantic search
 
-Context ranking, citations & grounding
 
-Agentic AI
 
-Multi-agent architectures
 
-LangGraph & AutoGen workflows
 
-Task decomposition & routing
 
-Error handling & state management
 
-MLOps & Production AI
+☁️ Cloud & MLOps
 
-Model versioning & CI/CD
 
-Monitoring & observability
 
-Scalable inference services
 
-Experiment tracking & evaluation
 
-🛠️ Tech Stack
 
-Languages
+⚙️ Backend & APIs
 
-Python, SQL
+🚀 Featured Work (Pinned Repositories)
+🥇 Enterprise RAG Platform
 
-GenAI & Frameworks
+📌 Secure, scalable RAG system for regulated industries
 
-OpenAI API
+Policy & regulatory document retrieval
 
-LangChain
+Vector search with embeddings
 
-LangGraph
-
-AutoGen
-
-ML & Data Science
-
-Scikit-learn
-
-XGBoost
-
-NLP pipelines
-
-Feature Engineering & Model Evaluation
-
-Backend & APIs
-
-FastAPI
-
-RESTful APIs
-
-Authentication & Rate Limiting
-
-Cloud & AI Platforms
-
-AWS (ML Specialty, Cloud Practitioner)
-
-GCP Vertex AI
-
-Azure ML
-
-Databases & Storage
-
-Vector Databases (FAISS / Pinecone / Chroma)
-
-MS SQL Server
-
-Analytics & BI
-
-Power BI
-
-Looker Studio
-
-🏗️ Featured Projects
-🔹 Enterprise RAG Platform
-
-Enterprise-grade Retrieval-Augmented Generation system designed for regulated environments.
-
-Secure document ingestion
-
-Semantic search using embeddings
-
-Context-aware LLM responses
+Context grounding & citations
 
 FastAPI-based inference services
 
-📌 Tech: Python, LangChain, Vector DB, OpenAI, FastAPI
+🤖 Agentic AI Workflows
 
-🔹 Agentic AI Workflows
-
-Multi-agent AI system that automates complex, multi-step enterprise workflows.
+📌 Multi-agent orchestration using LangGraph & AutoGen
 
 Task decomposition
 
-Agent-to-agent communication
+Decision routing
 
-Decision routing & exception handling
+Error recovery & state management
 
-📌 Tech: LangGraph, AutoGen, Python
+🏦 Banking AI Use Cases
 
-🔹 Banking AI Use Cases
+📌 Real-world financial AI systems
 
-AI solutions for financial services, including:
+Policy Q&A
 
-Policy & regulatory Q&A
-
-Risk analysis workflows
+Risk analysis
 
 Customer support automation
 
-📌 Tech: LLMs, RAG, NLP, Cloud AI
+⚙️ MLOps for AI Systems
 
-🔹 MLOps Pipeline for AI Systems
+📌 End-to-end AI lifecycle
 
-End-to-end ML lifecycle management:
+Training → Deployment → Monitoring
 
-Training & evaluation
+CI/CD for ML
 
-CI/CD pipelines
+Rollback & observability
 
-Monitoring & rollback strategies
+🏢 Where I’ve Worked
+<p align="center"> <img src="https://img.shields.io/badge/PNC-Banking-darkgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/JPMorgan%20Chase-Finance-black?style=for-the-badge"/> </p>
 
-📌 Tech: Python, CI/CD, Cloud ML
-
-🔹 FastAPI LLM Microservices
-
-Production-ready LLM inference services with:
-
-Secure APIs
-
-Logging & observability
-
-Low-latency model serving
-
-📌 Tech: FastAPI, OpenAI, Cloud
-
-🏢 Professional Experience
 PNC Bank — Generative AI Engineer
 
-Designed and deployed enterprise-grade GenAI solutions for banking operations
+Built enterprise GenAI systems
 
-Built RAG systems for policy & regulatory document retrieval
+Implemented RAG & Agentic AI
 
-Engineered agentic AI workflows improving operational efficiency by ~30%
+Designed scalable FastAPI services
 
-Developed FastAPI microservices for scalable LLM inference
-
-Collaborated with risk, compliance, and cybersecurity teams
+Worked closely with Risk & Compliance teams
 
 JPMorgan Chase — Senior Data Scientist / AI Engineer
 
-Built ML models for fraud detection & risk analysis
+Fraud detection & risk modeling
 
-Integrated LLMs into personalization workflows
+LLM-powered personalization
 
-Migrated legacy ML systems to cloud-native pipelines
-
-Established MLOps CI/CD pipelines
+Cloud migration & MLOps pipelines
 
 📜 Certifications
 
-✅ AWS Certified Machine Learning – Specialty
+🏅 AWS Certified Machine Learning – Specialty
+🏅 AWS Certified Cloud Practitioner
+🏅 Power BI Essential Training
+🏅 MS SQL Server
+🏅 Excel Skills for Business
 
-✅ AWS Certified Cloud Practitioner
+📊 GitHub Stats (Optional but Attractive)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react"/> </p>
+🤝 Let’s Connect
 
-✅ MS SQL Server
+📧 Email: dhanuprakash111@gmail.com
 
-✅ Power BI Essential Training
+💼 LinkedIn: https://www.linkedin.com/in/prakash-p-69096b192
 
-✅ Excel Skills for Business
+<div align="center">
+⭐ I build AI systems companies trust — not demos.
+</div>

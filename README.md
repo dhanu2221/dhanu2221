@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Prakash%20P&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=DhanaPrakash%20T&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 🚀 Generative AI Engineer | AI/ML Engineer | Data Scientist
 🤖 LLMs • RAG • Agentic AI • MLOps
 ☁️ AWS • GCP Vertex AI • Azure ML
@@ -153,8 +153,7 @@ Cloud migration & MLOps pipelines
 🏅 MS SQL Server
 🏅 Excel Skills for Business
 
-📊 GitHub Stats (Optional but Attractive)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react"/> </p>
+
 🤝 Let’s Connect
 
 📧 Email: dhanuprakash111@gmail.com

@@ -1,61 +1,89 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=DhanaPrakash%20T&fontSize=55&fontColor=ffffff&animation=fadeIn" />
-🚀 Generative AI Engineer | AI/ML Engineer | Data Scientist
-🤖 LLMs • RAG • Agentic AI • MLOps
-☁️ AWS • GCP Vertex AI • Azure ML
-🏦 Banking | 🏥 Healthcare | 🔐 Enterprise AI
-<p align="center"> <a href="https://www.linkedin.com/in/prakash-p-69096b192/"> <img src="https://img.shields.io/badge/LinkedIn-Prakash%20P-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:dhanuprakash111@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"> </a> </p> </div>
-👋 Who Am I?
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=DhanaPrakash%20T&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 
-I’m a Generative AI Engineer with 5+ years of experience building enterprise-grade AI systems for highly regulated industries like Banking and Healthcare.
+### 🚀 Generative AI Engineer | AI/ML Engineer | Data Scientist
 
-I specialize in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI workflows, and MLOps, with a strong focus on:
+**🤖 LLMs • RAG • Agentic AI • MLOps**  
+**☁️ AWS • GCP Vertex AI • Azure ML**  
+**🏦 Banking | 🏥 Healthcare | 🔐 Enterprise AI**
 
-✅ Security
-✅ Compliance
-✅ Scalability
-✅ Production-readiness
+<p align="center">
+<a href="https://www.linkedin.com/in/prakash-p-69096b192/">
+<img src="https://img.shields.io/badge/LinkedIn-Prakash%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:dhanuprakash111@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/dhanu2221">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+</p>
 
-Currently, I work at PNC Bank, designing and deploying AI solutions that power decision automation, knowledge retrieval, risk analysis, and conversational AI across enterprise platforms.
+</div>
+## 👋 Who Am I?
 
-🧠 What I Build (At Scale)
-<p align="center"> <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/> <img src="https://img.icons8.com/color/96/cloud.png"/> <img src="https://img.icons8.com/color/96/flow-chart.png"/> <img src="https://img.icons8.com/color/96/database.png"/> </p>
+Generative AI Engineer with **5+ years** of experience building **enterprise-grade AI systems** for highly regulated industries like Banking and Healthcare.
 
-🧠 LLM-powered enterprise systems
+### Core Expertise
+- 🧠 **Large Language Models (LLMs)** – Fine-tuning, RAG, Prompt Engineering
+- 📚 **Retrieval-Augmented Generation (RAG)** – Document pipelines, semantic search
+- 🤖 **Agentic AI** – LangGraph, AutoGen, multi-step orchestration
+- ⚙️ **MLOps** – CI/CD, model deployment, monitoring & observability
 
-📚 RAG pipelines for policies, regulations & knowledge bases
+### Focus Areas
+| ✅ Security | ✅ Compliance | ✅ Scalability | ✅ Production-ready |
+|-----------|-------------|--------------|-----------------|
 
-🤖 Multi-agent AI workflows (LangGraph, AutoGen)
+**Currently @ PNC Bank** — Designing & deploying AI solutions for decision automation, knowledge retrieval, risk analysis, and conversational AI across enterprise platforms.
 
-⚙️ End-to-end MLOps pipelines
+---
 
-☁️ Cloud-native AI deployments
+## 🧠 What I Build (At Scale)
 
-🔐 AI governance & compliance frameworks
+<p align="center">
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="AI"/>
+<img src="https://img.icons8.com/color/96/cloud.png" alt="Cloud"/>
+<img src="https://img.icons8.com/color/96/flow-chart.png" alt="Architecture"/>
+<img src="https://img.icons8.com/color/96/database.png" alt="Database"/>
+</p>
 
-🏗️ Enterprise AI Architecture (What Recruiters Care About)
-┌───────────────┐
-│  Enterprise   │
-│  Documents    │
-└──────┬────────┘
-       ↓
-┌────────────────────┐
-│ Ingestion & Chunking│
-└──────┬─────────────┘
-       ↓
-┌────────────────────┐
-│ Embeddings + Vector │
-│ Databases           │
-└──────┬─────────────┘
-       ↓
-┌────────────────────┐
-│ RAG / Agentic AI    │
-│ (LangChain/Graph)   │
-└──────┬─────────────┘
-       ↓
-┌────────────────────┐
-│ FastAPI Services    │
-│ Secure Inference    │
-└────────────────────┘
+- 🧠 **LLM-powered enterprise systems** – Generative models for complex business logic
+- 📚 **RAG pipelines** – Policy, regulatory & knowledge base retrieval at scale
+- 🤖 **Multi-agent AI workflows** – Task decomposition, routing, error recovery
+- ⚙️ **End-to-end MLOps** – Training, deployment, monitoring, rollback
+- ☁️ **Cloud-native AI** – AWS, GCP, Azure — containerized & serverless
+- 🔐 **AI governance** – Compliance frameworks, audit trails, security gates
+
+---
+
+## 🏗️ Enterprise AI Architecture
+
+```
+┌────────────────────────────────┐
+│   Enterprise Documents         │
+│ (PDFs, Legal Docs, Policies)   │
+└────────────┬───────────────────┘
+             ↓
+┌────────────────────────────────┐
+│  Data Ingestion & Chunking     │
+│ (LangChain, Document Loaders)  │
+└────────────┬───────────────────┘
+             ↓
+┌────────────────────────────────┐
+│  Embeddings + Vector Database  │
+│  (OpenAI, Pinecone, Weaviate)  │
+└────────────┬───────────────────┘
+             ↓
+┌────────────────────────────────┐
+│   RAG / Agentic AI Layer       │
+│  (LangChain, LangGraph, AutoGen)│
+└────────────┬───────────────────┘
+             ↓
+┌────────────────────────────────┐
+│  FastAPI Services (Inference)  │
+│   Secure, Monitored, Scalable  │
+└────────────────────────────────┘
+```
 
 🛠️ Tech Stack (Real, Production-Used)
 💻 Languages
